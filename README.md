@@ -1,4 +1,4 @@
-# Java Blackjack Game
+# Java Blackjack Game [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This is a graphical implementation of the popular card game Blackjack, developed in Java. The game is designed for four players to compete against each other without a dealer. Players aim to achieve the highest card point total without exceeding 21, featuring a sleek GUI built with Java Swing.
 
