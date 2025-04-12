@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/452625fc-9c8b-497e-83fc-4f119f15f7d9)# Java Blackjack Game
+# Java Blackjack Game
 
 This is a graphical implementation of the popular card game Blackjack, developed in Java. The game is designed for four players to compete against each other without a dealer. Players aim to achieve the highest card point total without exceeding 21, featuring a sleek GUI built with Java Swing.
 
